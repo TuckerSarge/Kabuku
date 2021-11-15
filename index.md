@@ -11,12 +11,19 @@
 以下２つをご用意下さい。
 - カメラ付のデバイス（iPhone等のスマートフォンや、ウェブカメラ付のパソコン）
 - ARマーカーを表示するもの（画像が表示できる電子機器、あるいは紙に印刷してもお楽しみ頂けます）
+
 用意ができましたら、下のマーカーを表示して準備します。
 このページをそのまま表示しても良いですし、
 [こちら](https://drive.google.com/uc?export=download&id=1RswJ7JvyC6WwOdtyOegoZtTK9tR1vYfL)
 のリンクからマーカー画像のダウンロードも出来ます。
-# AR用マーカー
+## AR用マーカー
 ![Picture of marker](Marker.png)
+
+これで準備は完了です。
+以下のどちらかのリンクからAR版組上げ灯篭を起動し、カメラへのアクセスを許可してマーカーを映してください。
+あなたの目の前に名舞台が蘇ります。
+-[マーカーを垂直な面に表示している方用のリンク](https://tuckersarge.github.io/KabukuAR/){:target="_blank"}
+-[マーカーを水平な面に表示している方用のリンク](https://tuckersarge.github.io/KabukuARHorizontal/){:target="_blank"}
 
 >　引用
 
