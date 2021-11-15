@@ -44,14 +44,19 @@
 # あなたの体験を共有しよう！
 ＃kabukuAR とともに、ARに反応した写真をSNSに投稿してみてください。
 あなたの日常が歌舞きはじめます。
-皆さまの日常に現れた＃kabukuAR　は以下にシェアしますので、他の方々の風景もどうぞお楽しみください。
+皆さまの日常に現れた＃kabukuAR　は
+[このリンク](https://twitter.com/search?q=%23kabukuAR&src=typed_query){:target="_blank"}
+から確認出来ますので、他の方々の風景もどうぞお楽しみください。
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=kabukuAR&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #kabukuAR</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
->　引用
 
-```
-const hello = () => {
-  return "Hello World!"
-}
-```
+# 紙で制作した組上げ灯篭
+
+春の展示では、実際に組上げ灯篭を紙で制作しました。
+興味のある方は是非、下のリンクより暗闇に浮かび上がる名舞台をお楽しみ下さい。
+
+[春の展示を見る（外部リンク）](https://sites.google.com/view/kabuku/)
+
+
+######This page is maintained by[TuckerSarge](https://github.com/TuckerSarge).
