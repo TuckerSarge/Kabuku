@@ -20,10 +20,14 @@
 ![Picture of marker](Marker.png)
 
 これで準備は完了です。
+
 以下のどちらかのリンクからAR版組上げ灯篭を起動し、カメラへのアクセスを許可してマーカーを映してください。
+
 あなたの目の前に名舞台が蘇ります。
--[マーカーを垂直な面に表示している方用のリンク](https://tuckersarge.github.io/KabukuAR/){:target="_blank"}
--[マーカーを水平な面に表示している方用のリンク](https://tuckersarge.github.io/KabukuARHorizontal/){:target="_blank"}
+
+
+- [マーカーを垂直な面に表示している方用のリンク](https://tuckersarge.github.io/KabukuAR/){:target="_blank"}
+- [マーカーを水平な面に表示している方用のリンク](https://tuckersarge.github.io/KabukuARHorizontal/){:target="_blank"}
 
 >　引用
 
