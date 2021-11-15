@@ -5,7 +5,7 @@
 
 　今回は春の展示に加えてAR版も用意し、カメラ付のデバイスがあれば目の前で組上げ灯籠を楽しめるようにしました。
 
-<video muted autoplay controls>
+<video muted autoplay controls width="320" height="240">
     <source src="kabukuDemo.mp4" type="video/mp4">
 </video>
 
