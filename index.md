@@ -56,7 +56,7 @@
 春の展示では、実際に組上げ灯篭を紙で制作しました。
 興味のある方は是非、下のリンクより暗闇に浮かび上がる名舞台をお楽しみ下さい。
 
-[春の展示を見る（外部リンク）](https://sites.google.com/view/kabuku/)
+[春の展示を見る（外部リンク）](https://sites.google.com/view/kabuku/){:target="_blank"}
 
 
 ######This page is maintained by[TuckerSarge](https://github.com/TuckerSarge).
