@@ -5,6 +5,10 @@
 
 　今回は春の展示に加えてAR版も用意し、カメラ付のデバイスがあれば目の前で組上げ灯籠を楽しめるようにしました。
 
+<video muted autoplay controls>
+    <source src="kabukuDemo.mp4" type="video/mp4">
+</video>
+
 
 # AR版 組上げ灯籠の楽しみ方
 
@@ -28,6 +32,13 @@
 
 - [マーカーを垂直な面に表示している方用のリンク](https://tuckersarge.github.io/KabukuAR/){:target="_blank"}
 - [マーカーを水平な面に表示している方用のリンク](https://tuckersarge.github.io/KabukuARHorizontal/){:target="_blank"}
+
+##カメラが起動しない場合
+ブラウザまたはデバイス自体が、カメラへのアクセスを認めていない可能性があります。
+ブラウザやデバイスの設定を見直して下さい。
+
+##
+
 
 >　引用
 
