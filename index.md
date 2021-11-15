@@ -5,6 +5,7 @@
 
 　今回は春の展示に加えてAR版も用意し、カメラ付のデバイスがあれば目の前で組上げ灯籠を楽しめるようにしました。
 
+
 > ARデモ映像
 
 <video muted controls width="320" height="240">
@@ -41,8 +42,11 @@
 ブラウザやデバイスの設定を見直して下さい。
 
 # あなたの体験を共有しよう！
+＃kabukuAR とともに、ARに反応した写真をSNSに投稿してみてください。
+あなたの日常が歌舞きはじめます。
+皆さまの日常に現れた＃kabukuAR　は以下にシェアしますので、他の方々の風景もどうぞお楽しみください。
 
-
+<a href="https://twitter.com/intent/tweet?button_hashtag=kabukuAR&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #kabukuAR</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 >　引用
 
