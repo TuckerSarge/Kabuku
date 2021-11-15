@@ -59,4 +59,4 @@
 [春の展示を見る（外部リンク）](https://sites.google.com/view/kabuku/){:target="_blank"}
 
 
-######This page is maintained by[TuckerSarge](https://github.com/TuckerSarge).
+###### This page is maintained by[TuckerSarge](https://github.com/TuckerSarge).
