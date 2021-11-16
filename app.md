@@ -1,8 +1,3 @@
----
-layout: default
-title: app
----
-
 <h1> マーカーとカメラの位置関係を選んでください </h1>
 <div style="display:flex">
 <button style="width:40%;" type="button" onclick="location.href='https://tuckersarge.github.io/KabukuAR/'"> 
