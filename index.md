@@ -28,13 +28,15 @@
 
 これで準備は完了です。
 
-以下のどちらかのリンクからAR版組上げ灯篭を起動し、カメラへのアクセスを許可してマーカーを映してください。
+以下のリンクからAR版組上げ灯篭を起動し、カメラへのアクセスを許可してマーカーを映してください。
 
 あなたの目の前に名舞台が蘇ります。
 
+### ARアプリケーションへ移動
+- [こちらのリンク](https://octan008.github.io/mine/){:target="_blank"}
+にアクセスするか、下のQRコードを読み取ってください。
+![Picture of qr](qr.png)
 
-- [マーカーを垂直な面に表示している方用のリンク](https://tuckersarge.github.io/KabukuAR/){:target="_blank"}
-- [マーカーを水平な面に表示している方用のリンク](https://tuckersarge.github.io/KabukuARHorizontal/){:target="_blank"}
 
 ## カメラが起動しない場合
 
