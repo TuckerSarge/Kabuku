@@ -8,7 +8,7 @@
 
 > ARデモ映像
 
-<video muted controls width="320" height="240">
+<video muted controls style="width:100%;">
     <source src="kabukuDemo.mp4" type="video/mp4">
 </video>
 
