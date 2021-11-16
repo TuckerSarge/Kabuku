@@ -1,4 +1,5 @@
 title: 立体浮世絵でKABUKU！
+permalink: /:title
 description:
 show_downloads: false
 github:
