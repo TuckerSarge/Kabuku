@@ -33,7 +33,7 @@
 あなたの目の前に名舞台が蘇ります。
 
 ### ARアプリケーションへ移動
-- [こちらのリンク](https://octan008.github.io/mine/){:target="_blank"}
+- [こちらのリンク](app){:target="_blank"}
 にアクセスするか、下のQRコードを読み取ってください。
 ![Picture of qr](qr.png)
 
