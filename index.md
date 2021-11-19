@@ -9,7 +9,7 @@
 > ARデモ映像
 
 <video muted controls style="width:100%;">
-    <source src="kabukuDemo.mp4" type="video/mp4">
+    <source src="kabukuDemo2.mp4" type="video/mp4">
 </video>
 
 
