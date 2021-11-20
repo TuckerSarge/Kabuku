@@ -66,7 +66,7 @@
 
 春の展示で制作した組上げ灯篭を、WiDAR SCANでスキャンしました。
 スキャンした作品は特別な機材が無くとも閲覧できますので、
-![こちらのリンク](https://viewer.widar.io/widar-3d-viewer.html?id=007f1ec2-4c43-4316-9e8d-689bdcf22bb0)
+[こちらのリンク](https://viewer.widar.io/widar-3d-viewer.html?id=007f1ec2-4c43-4316-9e8d-689bdcf22bb0)
 からご覧ください。
 
 ーーーーーーーーーーー  
