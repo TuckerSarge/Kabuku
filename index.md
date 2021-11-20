@@ -60,6 +60,15 @@
 
 [春の展示を見る（外部リンク）](https://sites.google.com/view/kabuku/){:target="_blank"}
 
+<a id="anchor1"></a>
+
+# 3Dスキャンした組上げ灯篭
+
+春の展示で制作した組上げ灯篭を、WiDAR SCANでスキャンしました。
+スキャンした作品は特別な機材が無くとも閲覧できますので、
+![こちらのリンク](https://viewer.widar.io/widar-3d-viewer.html?id=007f1ec2-4c43-4316-9e8d-689bdcf22bb0)
+からご覧ください。
+
 ーーーーーーーーーーー  
 紙で組上げ灯籠を作りたくなった方は…  
 [「立命館大学アート・リサーチセンターのARC所蔵・寄託品 浮世絵データベース」検索結果](https://www.dh-jac.net/db/nishikie/results.php?f3=arcUP5617&f9=*&f11=1&-max=50&enter=portal)より
@@ -68,8 +77,9 @@
 制作資料：「白浪五人男鎌倉極楽寺山門之場組上ケ」「五枚続」  
 立命館大学アート・リサーチセンター所蔵（arcUP5617～acUP5621）  
 画像切り抜き：東出りさ、鈴木嵩茂  
-AR制作・サイト制作：鈴木嵩茂 髙橋初来  
+AR制作・サイト制作：鈴木嵩茂、髙橋初来  
 撮影：東出りさ  
 制作協力：日比杏南  
+スキャン作成：覚井優希  
 
 ###### This page is maintained by[TuckerSarge](https://github.com/TuckerSarge).
